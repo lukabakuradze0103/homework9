@@ -1,0 +1,22 @@
+@media screen and (max-width: 375px) {
+  .img1 {
+    width: 400px;
+    height: 240px;
+  }
+  .p1 {
+    margin-left: -327px;
+    margin-top: 250px;
+  }
+  .p2 {
+    margin-top: 43px;
+    margin-left: -395px;
+    font-size: 11px;
+  }
+  .p3 {
+    font-size: 14px;
+    text-align: center;
+    margin-top: 43px;
+    margin-bottom: 28px;
+    margin-left: 192px;
+  }
+}
